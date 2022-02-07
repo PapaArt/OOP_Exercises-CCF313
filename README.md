@@ -1,2 +1,2 @@
-# OOP_Exercise-CCF313
+# OOP Exercises-CCF313
 Lists of exercises made during my graduation in UFV.
