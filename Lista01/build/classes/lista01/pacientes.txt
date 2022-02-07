@@ -1,0 +1,7 @@
+Artur M 71 21 1.75
+Messi M 72 33 1.75
+Megan F 65 40 1.65
+Raquel F 70 20 1.65
+Djonga M 82 28 1.7
+Ronaldo M 80 36 1.8
+Lana F 60 25 1.6
